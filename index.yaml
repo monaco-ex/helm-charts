@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  monacoind:
+  - apiVersion: v1
+    created: 2017-08-01T08:18:48.97357941Z
+    description: Monacoin-core full node
+    digest: 07e421c8cf938094756ed251ce00b7db79f003143e9ee2abb37e0f2def8a91c8
+    name: monacoind
+    urls:
+    - https://helm-charts.monaco-ex.org/monacoind-0.1.0.tgz
+    version: 0.1.0
+generated: 2017-08-01T08:18:48.972828016Z
